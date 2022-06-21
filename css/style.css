@@ -39,3 +39,14 @@ button:hover {
     float: right;
     line-height: 10px;
 }
+p {
+    font-style: italic;
+}
+#postcard {
+    background-color: white;
+    border: 5px;
+    border-style: ridge;
+    border-color: blue;
+    padding: 15px;
+    border-radius: 12px;
+}
