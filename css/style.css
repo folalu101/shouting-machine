@@ -1,3 +1,27 @@
 #postcard {
     display: none;
 }
+h1 {
+    background-color: honeydew;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 12px;
+    border: 15px;
+    border-width: 10px;
+    border-color: blue;
+    border-radius: 15px;
+    border-style: double;
+}
+#form-machine {
+    background-color: honeydew;
+    color: darkmagenta;
+    font-style: oblique;
+    line-height: 30px;
+}
+button:hover {
+    background-color: honeydew;
+    font-style: inherit;
+    border-style: double;
+    border-radius: 15px;
+    border-color: black;
+}
