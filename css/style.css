@@ -25,3 +25,17 @@ button:hover {
     border-radius: 15px;
     border-color: black;
 }
+.letter-address {
+    position: relative;
+    height: 180px;
+    width: 165px;
+    left: 1150px;
+    line-height: 25px;
+}
+.letter-img {
+    position: absolute;
+}
+.letter-end{
+    float: right;
+    line-height: 10px;
+}
