@@ -6,11 +6,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     padding: 12px;
-    border: 15px;
-    border-width: 10px;
-    border-color: blue;
-    border-radius: 15px;
-    border-style: double;
+    
 }
 #form-machine {
     background-color: honeydew;
@@ -27,9 +23,9 @@ button:hover {
 }
 .letter-address {
     position: relative;
-    height: 180px;
+    height: 160px;
     width: 165px;
-    left: 1150px;
+    left: 1035px;
     line-height: 25px;
 }
 .letter-img {
@@ -45,8 +41,14 @@ p {
 #postcard {
     background-color: white;
     border: 5px;
-    border-style: ridge;
+    border-style: solid;
     border-color: blue;
-    padding: 15px;
+    padding: 30px;
     border-radius: 12px;
+    margin: 20px;
+}
+footer {
+    text-align: center;
+    background-color: honeydew;
+    padding: 15px;
 }
